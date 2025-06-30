@@ -1,1 +1,22 @@
+# Contributing to git-cli-assignment
 
+We welcome contributions to this project!
+
+## How to Contribute
+
+1.  **Fork the repository.**
+2.  **Clone your forked repository** to your local machine.
+3.  **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name` or `git checkout -b bugfix/issue-description`.
+4.  **Make your changes.**
+5.  **Commit your changes** with a clear and concise commit message.
+6.  **Push your branch** to your forked repository: `git push origin feature/your-feature-name`.
+7.  **Open a Pull Request** from your forked repository to the `main` branch of this repository. Provide a clear description of your changes.
+
+## Code Style
+
+* Please try to follow existing code style.
+* Keep commits focused on a single logical change.
+
+## Reporting Issues
+
+If you find a bug or have a feature request, please open an issue on the GitHub Issues page.
